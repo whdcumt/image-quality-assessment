@@ -36,5 +36,7 @@ data.M1,data.M2分别为融合前的两个图像，data.F为融合后的图像
 	fd=num2str(figure_definition(x))
 
 已测试/效果见test文件夹/测试时间2016.10.3<br>
+测试图片：InputName.bmp<br>
+测试结果：效果.png<br>
 说明：已备份Github2016.10.3<br>
 
